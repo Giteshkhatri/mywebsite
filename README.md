@@ -1,2 +1,1 @@
-# mywebsite
-this is my first website
+TinDog Starting Files
